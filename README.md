@@ -23,7 +23,6 @@ Below is the complete information about all the columns in the dataset:
   * Opposition: Who was the opponent of India
   * Ground: Venue of the match
   * Start Date: Date of the match
-  
   <a href='/Assets/Virat_Kohli_data.csv'> <strong> <em> Visit Dataset </strong> </em> </a>
   
   
