@@ -22,8 +22,7 @@ Below is the complete information about all the columns in the dataset:
   * Inns: 1st and 2nd innings
   * Opposition: Who was the opponent of India
   * Ground: Venue of the match
-  * Start Date: Date of the match
-  * 
+  * Start Date: Date of the match <br>
   <a href='/Assets/Virat_Kohli_data.csv'> <strong> <em> Visit Dataset </strong> </em> </a>
   
   
