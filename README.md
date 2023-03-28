@@ -8,7 +8,8 @@ Namaste! This is the performance analysis of Virat Kohli. Virat Kohli is a renow
 
 After this analysis, we can know his total score, average score, number of centuries, dismissals etc. Such analysis are very important for both the teams to come up with right strategy. It also helps the player to improve his performance.
 
-The dataset contains matches played by Virat Kohli between 18 August 2008 and 22 January 2017
+The dataset contains matches played by Virat Kohli between 18 August 2008 and 22 January 2017.<br>
+<a href='/Assets/Virat_Kohli_data.csv'> <strong> <em> Visit Dataset </strong> </em> </a>
 
 Below is the complete information about all the columns in the dataset:
 
@@ -23,8 +24,6 @@ Below is the complete information about all the columns in the dataset:
   * Opposition: Who was the opponent of India
   * Ground: Venue of the match
   * Start Date: Date of the match <br>
-  <a href='/Assets/Virat_Kohli_data.csv'> <strong> <em> Visit Dataset </strong> </em> </a>
-  
   
   
   **Packages/Libraries Used :** pandas, numpy, plotly.express, plotly.graph_objects<br>
